@@ -1,0 +1,113 @@
+<!-- saved from url=(0036)http://www.canxdensoft.net/story.php -->
+<html lang="ja"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>恋ニ、甘味ヲソエテ-STORY</title>
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="Keywords" content="CANVAS+GARDEN,カンバスガーデン,宮坂みゆ,宮坂なこ,奏太響,恋ニ、甘味ヲソエテ">
+<meta name="description" content="「CANVAS+GARDEN」同人ゲーム情報サイト／『恋ニ、甘味ヲソエテ２』制作中！">
+<link href="./恋ニ、甘味ヲソエテ-STORY_files/def.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="http://www.canxdensoft.net/img/icon.ico">
+<script type="text/javascript" src="./恋ニ、甘味ヲソエテ-STORY_files/canxdensoft.js"></script>
+<script type="text/javascript" src="./恋ニ、甘味ヲソエテ-STORY_files/jquery.js"></script>
+<script type="text/javascript" src="./恋ニ、甘味ヲソエテ-STORY_files/snowfall.jquery.js"></script></head>
+<body leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginwidth="0" marginheight="0" style="">
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="center" valign="top">
+
+<table width="1552" height="1540" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td background="./恋ニ、甘味ヲソエテ-STORY_files/mainb_ct.png" align="center" valign="top">
+
+<table width="1200" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="225" align="center" valign="top">
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="48" border="0"><br>
+<a href="http://www.canxdensoft.net/index.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/logo_2.png" width="171" height="300" border="0"></a><br><br>
+<a onmouseover="imgChange(&#39;i1&#39;,&#39;img2&#39;)" onmouseout="imgChange(&#39;i1&#39;,&#39;img1&#39;)" href="http://www.canxdensoft.net/index.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_1.png" width="150" height="64" border="0" name="i1"></a><br>
+<a onmouseover="imgChange(&#39;i2&#39;,&#39;img4&#39;)" onmouseout="imgChange(&#39;i2&#39;,&#39;img3&#39;)" href="http://www.canxdensoft.net/story.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_2.png" width="150" height="64" border="0" name="i2"></a><br>
+<a onmouseover="imgChange(&#39;i3&#39;,&#39;img6&#39;)" onmouseout="imgChange(&#39;i3&#39;,&#39;img5&#39;)" href="http://www.canxdensoft.net/chara.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_3.png" width="150" height="64" border="0" name="i3"></a><br>
+<a onmouseover="imgChange(&#39;i4&#39;,&#39;img8&#39;)" onmouseout="imgChange(&#39;i4&#39;,&#39;img7&#39;)" href="http://www.canxdensoft.net/cg.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_4.png" width="150" height="64" border="0" name="i4"></a><br>
+<a onmouseover="imgChange(&#39;i5&#39;,&#39;img10&#39;)" onmouseout="imgChange(&#39;i5&#39;,&#39;img9&#39;)" href="http://www.canxdensoft.net/sp.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_5.png" width="150" height="64" border="0" name="i5"></a><br>
+<a onmouseover="imgChange(&#39;i6&#39;,&#39;img12&#39;)" onmouseout="imgChange(&#39;i6&#39;,&#39;img11&#39;)" href="http://www.canxdensoft.net/info.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/menu_6.png" width="150" height="64" border="0" name="i6"></a><br>
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="35" border="0"><br>
+<a href="https://twitter.com/CANVAS_GARDEN" target="_blank" class="link"><img src="./恋ニ、甘味ヲソエテ-STORY_files/twitter_i_2.png" width="144" height="126" border="0"></a><br>
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="30" border="0"><br>
+<a href="http://www.canxden.net/" target="_blank" class="link"><img src="./恋ニ、甘味ヲソエテ-STORY_files/cl_i.png" width="144" height="42" border="0"></a></td>
+<td background="./恋ニ、甘味ヲソエテ-STORY_files/ct_bg_2.png" width="860" height="1540" align="center" valign="center">
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/story.png" width="639" height="1246" border="0"><br><img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="30" border="0"><br>
+<a href="http://www.canxdensoft.net/story_2.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/story_2link.png" width="470" height="36" border="0"></a>
+</td>
+<td width="115" valign="top"><img src="./恋ニ、甘味ヲソエテ-STORY_files/cl_logo.png" width="115" height="95" border="0"></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="bottom">
+
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="60" border="0"><br>
+<table width="100%" height="182" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td background="./恋ニ、甘味ヲソエテ-STORY_files/foot_wave.png" height="18" align="center" valign="top"></td>
+</tr>
+<tr>
+<td background="./恋ニ、甘味ヲソエテ-STORY_files/foot_bg.jpg" height="164" align="center" valign="center">
+<table width="1128" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="171"><img src="./恋ニ、甘味ヲソエテ-STORY_files/foot_logo_2.png" width="171" height="96" border="0"></td>
+<td width="17"><img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="17" height="1" border="0"></td>
+<td width="400">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><a onmouseover="imgChange(&#39;i7&#39;,&#39;img14&#39;)" onmouseout="imgChange(&#39;i7&#39;,&#39;img13&#39;)" href="http://www.canxdensoft.net/index.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_1.png" width="51" height="13" border="0" name="i7"></a></td>
+<td><a onmouseover="imgChange(&#39;i8&#39;,&#39;img16&#39;)" onmouseout="imgChange(&#39;i8&#39;,&#39;img15&#39;)" href="http://www.canxdensoft.net/story.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_2.png" width="52" height="13" border="0" name="i8"></a></td>
+<td><a onmouseover="imgChange(&#39;i9&#39;,&#39;img18&#39;)" onmouseout="imgChange(&#39;i9&#39;,&#39;img17&#39;)" href="http://www.canxdensoft.net/chara.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_3.png" width="51" height="13" border="0" name="i9"></a></td>
+<td><a onmouseover="imgChange(&#39;i10&#39;,&#39;img20&#39;)" onmouseout="imgChange(&#39;i10&#39;,&#39;img19&#39;)" href="http://www.canxdensoft.net/cg.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_4.png" width="53" height="13" border="0" name="i10"></a></td>
+<td><a onmouseover="imgChange(&#39;i11&#39;,&#39;img22&#39;)" onmouseout="imgChange(&#39;i11&#39;,&#39;img21&#39;)" href="http://www.canxdensoft.net/sp.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_5.png" width="65" height="13" border="0" name="i11"></a></td>
+<td><a onmouseover="imgChange(&#39;i12&#39;,&#39;img24&#39;)" onmouseout="imgChange(&#39;i12&#39;,&#39;img23&#39;)" href="http://www.canxdensoft.net/info.php"><img src="./恋ニ、甘味ヲソエテ-STORY_files/f_menu_6.png" width="52" height="13" border="0" name="i12"></a></td>
+</tr>
+</tbody></table>
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="12" border="0"><br>
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/f_cr.png" width="288" height="10" border="0"><br><br>
+</td>
+<td width="540"><img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="617" height="1" border="0"></td>
+</tr>
+</tbody></table>
+<img src="./恋ニ、甘味ヲソエテ-STORY_files/sp-t.gif" width="1" height="30" border="0"><br>
+</td>
+</tr>
+</tbody></table>
+<script type="text/javascript" src="./恋ニ、甘味ヲソエテ-STORY_files/script.php" defer=""></script><noscript><img src="//canxden.sakura.ne.jp/aly/thk/track.php" alt="" width="1" height="1" /></noscript>
+</td>
+</tr>
+</tbody></table>
+<script defer="" type="text/javascript" src="./恋ニ、甘味ヲソエテ-STORY_files/track.php"></script><script type="text/javascript">
+$(document).snowfall({ 
+flakeCount:20,
+image:"img/flower.png",
+minSize:13,
+maxSize:25,
+minSpeed:0.5,
+maxSpeed:1,
+});
+
+$(document).snowfall({ 
+flakeCount:12,
+flakeIndex:"-1",
+image:"img/flower.png",
+minSize:8,
+maxSize:12,
+minSpeed:0.5,
+maxSpeed:1,
+});
+</script><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 24.74px; height: 24.74px; position: absolute; top: 71px; left: 502.741px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 20.75px; height: 20.75px; position: absolute; top: 251px; left: 384.605px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 16.06px; height: 16.06px; position: absolute; top: 189px; left: 173.56px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 14.18px; height: 14.18px; position: absolute; top: 258px; left: 1077.09px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 24.13px; height: 24.13px; position: absolute; top: 179px; left: 1175.97px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 19.97px; height: 19.97px; position: absolute; top: 68px; left: 533.043px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 17.65px; height: 17.65px; position: absolute; top: 205px; left: 1063.79px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 22.03px; height: 22.03px; position: absolute; top: 16px; left: 357.185px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 18.21px; height: 18.21px; position: absolute; top: 164px; left: 847.414px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 14.94px; height: 14.94px; position: absolute; top: 38px; left: 561.035px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 15.22px; height: 15.22px; position: absolute; top: 141px; left: 1259.02px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 23.69px; height: 23.69px; position: absolute; top: 226px; left: 1244.98px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 20.94px; height: 20.94px; position: absolute; top: 176px; left: 1157.61px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 18.23px; height: 18.23px; position: absolute; top: 137px; left: 872.108px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 24.25px; height: 24.25px; position: absolute; top: 201px; left: 1008.78px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 18.39px; height: 18.39px; position: absolute; top: 198px; left: 1133.25px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 13.09px; height: 13.09px; position: absolute; top: 240px; left: 508.943px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 20.4px; height: 20.4px; position: absolute; top: 227px; left: 863.793px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 21.44px; height: 21.44px; position: absolute; top: 239px; left: 687.356px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 23.73px; height: 23.73px; position: absolute; top: 118px; left: 513.148px; font-size: 0px; z-index: 999999;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 11.81px; height: 11.81px; position: absolute; top: 36px; left: 1050.38px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 10.69px; height: 10.69px; position: absolute; top: 104px; left: 733.345px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 8.32px; height: 8.32px; position: absolute; top: 131px; left: 1223.99px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 9.99px; height: 9.99px; position: absolute; top: 163px; left: 710.261px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 9.16px; height: 9.16px; position: absolute; top: 181px; left: 545.245px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 10.45px; height: 10.45px; position: absolute; top: 22px; left: 738.029px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 11.31px; height: 11.31px; position: absolute; top: 189px; left: 736.818px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 8.96px; height: 8.96px; position: absolute; top: 90px; left: 1300.37px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 11.11px; height: 11.11px; position: absolute; top: 95px; left: 538.982px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 8.88px; height: 8.88px; position: absolute; top: 148px; left: 1167.64px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 9.81px; height: 9.81px; position: absolute; top: 591px; left: 631.647px; font-size: 0px; z-index: -1;"><img src="./恋ニ、甘味ヲソエテ-STORY_files/flower.png" class="snowfall-flakes" style="width: 9.31px; height: 9.31px; position: absolute; top: 61px; left: 1124.43px; font-size: 0px; z-index: -1;">
+
+
+</body></html>
